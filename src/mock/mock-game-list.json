@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1001,
+    "name": "Elden Ring",
+    "image_path": "/images/eldenring.jpg",
+    "game_store": "Steam",
+    "genre": "Action RPG",
+    "developer": "FromSoftware",
+    "last_time_searched": "2025-12-07T01:30:00Z"
+  },
+  {
+    "id": 1002,
+    "name": "Cyberpunk 2077",
+    "image_path": "/images/cyberpunk2077.jpg",
+    "game_store": "GOG",
+    "genre": "Open-World RPG",
+    "developer": "CD Projekt Red",
+    "last_time_searched": "2025-11-28T10:15:00Z"
+  },
+  {
+    "id": 1003,
+    "name": "Hades",
+    "image_path": "/images/hades.jpg",
+    "game_store": "Epic",
+    "genre": "Roguelite / Action",
+    "developer": "Supergiant Games",
+    "last_time_searched": "2025-12-06T19:45:00Z"
+  },
+  {
+    "id": 1004,
+    "name": "The Witcher 3: Wild Hunt",
+    "image_path": "/images/witcher3.jpg",
+    "game_store": "GOG",
+    "genre": "Action RPG",
+    "developer": "CD Projekt Red",
+    "last_time_searched": "2025-10-15T14:20:00Z"
+  },
+  {
+    "id": 1005,
+    "name": "Stardew Valley",
+    "image_path": "/images/stardewvalley.jpg",
+    "game_store": "Steam",
+    "genre": "Farming Sim",
+    "developer": "ConcernedApe",
+    "last_time_searched": "2025-12-07T00:55:00Z"
+  },
+  {
+    "id": 1006,
+    "name": "Red Dead Redemption 2",
+    "image_path": "/images/rdr2.jpg",
+    "game_store": "Epic",
+    "genre": "Action-Adventure",
+    "developer": "Rockstar Games",
+    "last_time_searched": "2025-09-01T21:00:00Z"
+  },
+  {
+    "id": 1007,
+    "name": "Disco Elysium - The Final Cut",
+    "image_path": "/images/discoelysium.jpg",
+    "game_store": "Steam",
+    "genre": "RPG",
+    "developer": "ZA/UM",
+    "last_time_searched": "2025-12-05T12:00:00Z"
+  },
+  {
+    "id": 1008,
+    "name": "Minecraft",
+    "image_path": "/images/minecraft.jpg",
+    "game_store": "Epic",
+    "genre": "Sandbox",
+    "developer": "Mojang Studios",
+    "last_time_searched": "2025-11-11T08:30:00Z"
+  },
+  {
+    "id": 1009,
+    "name": "Factorio",
+    "image_path": "/images/factorio.jpg",
+    "game_store": "Steam",
+    "genre": "Factory Builder / Strategy",
+    "developer": "Wube Software",
+    "last_time_searched": "2025-12-03T17:10:00Z"
+  },
+  {
+    "id": 1010,
+    "name": "Hollow Knight",
+    "image_path": "/images/hollowknight.jpg",
+    "game_store": "GOG",
+    "genre": "Metroidvania",
+    "developer": "Team Cherry",
+    "last_time_searched": "2025-10-22T09:00:00Z"
+  },
+  {
+    "id": 1011,
+    "name": "DOOM Eternal",
+    "image_path": "/images/doometernal.jpg",
+    "game_store": "Steam",
+    "genre": "FPS",
+    "developer": "id Software",
+    "last_time_searched": "2025-09-14T23:40:00Z"
+  },
+  {
+    "id": 1012,
+    "name": "Control",
+    "image_path": "/images/control.jpg",
+    "game_store": "Epic",
+    "genre": "Action-Adventure",
+    "developer": "Remedy Entertainment",
+    "last_time_searched": "2025-11-04T15:25:00Z"
+  },
+  {
+    "id": 1013,
+    "name": "Divinity: Original Sin 2",
+    "image_path": "/images/divinity2.jpg",
+    "game_store": "GOG",
+    "genre": "CRPG",
+    "developer": "Larian Studios",
+    "last_time_searched": "2025-12-07T01:10:00Z"
+  },
+  {
+    "id": 1014,
+    "name": "Celeste",
+    "image_path": "/images/celeste.jpg",
+    "game_store": "Steam",
+    "genre": "Platformer",
+    "developer": "Maddy Makes Games",
+    "last_time_searched": "2025-08-10T16:00:00Z"
+  },
+  {
+    "id": 1015,
+    "name": "No Man's Sky",
+    "image_path": "/images/nomanssky.jpg",
+    "game_store": "Epic",
+    "genre": "Space Exploration",
+    "developer": "Hello Games",
+    "last_time_searched": "2025-11-20T20:50:00Z"
+  },
+  {
+    "id": 1016,
+    "name": "Outer Wilds",
+    "image_path": "/images/outerwilds.jpg",
+    "game_store": "Epic",
+    "genre": "Mystery / Exploration",
+    "developer": "Mobius Digital",
+    "last_time_searched": "2025-10-05T13:30:00Z"
+  },
+  {
+    "id": 1017,
+    "name": "Terraria",
+    "image_path": "/images/terraria.jpg",
+    "game_store": "Steam",
+    "genre": "Sandbox / Action",
+    "developer": "Re-Logic",
+    "last_time_searched": "2025-12-02T11:20:00Z"
+  },
+  {
+    "id": 1018,
+    "name": "Mass Effect Legendary Edition",
+    "image_path": "/images/masseffect.jpg",
+    "game_store": "GOG",
+    "genre": "Action RPG",
+    "developer": "BioWare",
+    "last_time_searched": "2025-09-25T18:45:00Z"
+  },
+  {
+    "id": 1019,
+    "name": "Valorant",
+    "image_path": "/images/valorant.jpg",
+    "game_store": "Epic",
+    "genre": "Tactical FPS",
+    "developer": "Riot Games",
+    "last_time_searched": "2025-12-07T01:05:00Z"
+  },
+  {
+    "id": 1020,
+    "name": "Sid Meier's Civilization VI",
+    "image_path": "/images/civ6.jpg",
+    "game_store": "Steam",
+    "genre": "Turn-Based Strategy",
+    "developer": "Firaxis Games",
+    "last_time_searched": "2025-11-18T19:00:00Z"
+  },
+  {
+    "id": 1021,
+    "name": "Horizon Zero Dawn",
+    "image_path": "/images/hzd.jpg",
+    "game_store": "Epic",
+    "genre": "Action RPG",
+    "developer": "Guerrilla Games",
+    "last_time_searched": "2025-10-29T14:55:00Z"
+  },
+  {
+    "id": 1022,
+    "name": "Deep Rock Galactic",
+    "image_path": "/images/drg.jpg",
+    "game_store": "Steam",
+    "genre": "Co-op FPS",
+    "developer": "Ghost Ship Games",
+    "last_time_searched": "2025-12-04T22:30:00Z"
+  },
+  {
+    "id": 1023,
+    "name": "Frostpunk",
+    "image_path": "/images/frostpunk.jpg",
+    "game_store": "GOG",
+    "genre": "City-Builder / Survival",
+    "developer": "11 bit studios",
+    "last_time_searched": "2025-09-08T07:10:00Z"
+  },
+  {
+    "id": 1024,
+    "name": "Subnautica",
+    "image_path": "/images/subnautica.jpg",
+    "game_store": "Epic",
+    "genre": "Survival / Adventure",
+    "developer": "Unknown Worlds",
+    "last_time_searched": "2025-12-06T11:40:00Z"
+  },
+  {
+    "id": 1025,
+    "name": "Baldur's Gate 3",
+    "image_path": "/images/bg3.jpg",
+    "game_store": "Steam",
+    "genre": "CRPG",
+    "developer": "Larian Studios",
+    "last_time_searched": "2025-12-07T01:15:00Z"
+  },
+  {
+    "id": 1026,
+    "name": "Slay the Spire",
+    "image_path": "/images/slaythespire.jpg",
+    "game_store": "Steam",
+    "genre": "Roguelike Deck-Builder",
+    "developer": "MegaCrit",
+    "last_time_searched": "2025-11-30T23:55:00Z"
+  },
+  {
+    "id": 1027,
+    "name": "Hitman 3",
+    "image_path": "/images/hitman3.jpg",
+    "game_store": "Epic",
+    "genre": "Stealth / Sandbox",
+    "developer": "IO Interactive",
+    "last_time_searched": "2025-10-19T17:20:00Z"
+  },
+  {
+    "id": 1028,
+    "name": "Prey",
+    "image_path": "/images/prey.jpg",
+    "game_store": "GOG",
+    "genre": "Immersive Sim / FPS",
+    "developer": "Arkane Studios",
+    "last_time_searched": "2025-09-03T10:00:00Z"
+  },
+  {
+    "id": 1029,
+    "name": "Untitled Goose Game",
+    "image_path": "/images/goosegame.jpg",
+    "game_store": "Epic",
+    "genre": "Puzzle / Stealth",
+    "developer": "House House",
+    "last_time_searched": "2025-11-25T16:30:00Z"
+  },
+  {
+    "id": 1030,
+    "name": "Kerbal Space Program",
+    "image_path": "/images/ksp.jpg",
+    "game_store": "Steam",
+    "genre": "Space Flight Simulator",
+    "developer": "Squad",
+    "last_time_searched": "2025-12-01T21:40:00Z"
+  }
+]
