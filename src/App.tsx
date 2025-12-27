@@ -1,12 +1,12 @@
-import { HomeHeader } from "./components/app/home/header"
-import { HomeSearchBar } from "./components/app/home/search-bar"
+import { RouterProvider, createRouter } from "@tanstack/react-router"
+import { routeTree } from "./routeTree.gen"
 
 function App() {
+  const router = createRouter({ routeTree })
   return (
-    <div className='flex flex-col w-screen h-screen items-center justify-center'>
-      <HomeHeader />
-      <HomeSearchBar />
-    </div>
+    <>
+      <RouterProvider router={router} />
+    </>
   )
 }
 
