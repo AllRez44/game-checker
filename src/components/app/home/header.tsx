@@ -13,7 +13,8 @@ function HomeHeader({ className, ...props }: HomeProps) {
     >
       <h1 className="text-3xl font-bold sm:text-4xl capitalize">Do you own this game?</h1>
       <p className="text-center text-base text-muted-foreground sm:text-lg">
-        Search your game library instantly. Find out if you already own a game across all platforms before making a purchase.</p>
+        Search your game library instantly. Find out if you already own a game across all platforms before making a purchase.
+      </p>
     </header>
   )
 }
