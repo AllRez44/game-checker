@@ -2,7 +2,7 @@
   {
     "id": 1001,
     "name": "Elden Ring",
-    "image_path": "/images/eldenring.jpg",
+    "image_path": "/images/eldenring.webp",
     "game_store": "Steam",
     "genre": "Action RPG",
     "developer": "FromSoftware",
@@ -11,7 +11,7 @@
   {
     "id": 1002,
     "name": "Cyberpunk 2077",
-    "image_path": "/images/cyberpunk2077.jpg",
+    "image_path": "/images/cyberpunk2077.webp",
     "game_store": "GOG",
     "genre": "Open-World RPG",
     "developer": "CD Projekt Red",
@@ -20,7 +20,7 @@
   {
     "id": 1003,
     "name": "Hades",
-    "image_path": "/images/hades.jpg",
+    "image_path": "/images/hades.webp",
     "game_store": "Epic",
     "genre": "Roguelite / Action",
     "developer": "Supergiant Games",
@@ -29,7 +29,7 @@
   {
     "id": 1004,
     "name": "The Witcher 3: Wild Hunt",
-    "image_path": "/images/witcher3.jpg",
+    "image_path": "/images/witcher3.webp",
     "game_store": "GOG",
     "genre": "Action RPG",
     "developer": "CD Projekt Red",
@@ -38,7 +38,7 @@
   {
     "id": 1005,
     "name": "Stardew Valley",
-    "image_path": "/images/stardewvalley.jpg",
+    "image_path": "/images/stardewvalley.webp",
     "game_store": "Steam",
     "genre": "Farming Sim",
     "developer": "ConcernedApe",
@@ -47,7 +47,7 @@
   {
     "id": 1006,
     "name": "Red Dead Redemption 2",
-    "image_path": "/images/rdr2.jpg",
+    "image_path": "/images/rdr2.webp",
     "game_store": "Epic",
     "genre": "Action-Adventure",
     "developer": "Rockstar Games",
@@ -56,7 +56,7 @@
   {
     "id": 1007,
     "name": "Disco Elysium - The Final Cut",
-    "image_path": "/images/discoelysium.jpg",
+    "image_path": "/images/discoelysium.webp",
     "game_store": "Steam",
     "genre": "RPG",
     "developer": "ZA/UM",
@@ -65,7 +65,7 @@
   {
     "id": 1008,
     "name": "Minecraft",
-    "image_path": "/images/minecraft.jpg",
+    "image_path": "/images/minecraft.webp",
     "game_store": "Epic",
     "genre": "Sandbox",
     "developer": "Mojang Studios",
@@ -74,7 +74,7 @@
   {
     "id": 1009,
     "name": "Factorio",
-    "image_path": "/images/factorio.jpg",
+    "image_path": "/images/factorio.webp",
     "game_store": "Steam",
     "genre": "Factory Builder / Strategy",
     "developer": "Wube Software",
@@ -83,7 +83,7 @@
   {
     "id": 1010,
     "name": "Hollow Knight",
-    "image_path": "/images/hollowknight.jpg",
+    "image_path": "/images/hollowknight.webp",
     "game_store": "GOG",
     "genre": "Metroidvania",
     "developer": "Team Cherry",
@@ -92,7 +92,7 @@
   {
     "id": 1011,
     "name": "DOOM Eternal",
-    "image_path": "/images/doometernal.jpg",
+    "image_path": "/images/doometernal.webp",
     "game_store": "Steam",
     "genre": "FPS",
     "developer": "id Software",
@@ -101,7 +101,7 @@
   {
     "id": 1012,
     "name": "Control",
-    "image_path": "/images/control.jpg",
+    "image_path": "/images/control.webp",
     "game_store": "Epic",
     "genre": "Action-Adventure",
     "developer": "Remedy Entertainment",
@@ -110,7 +110,7 @@
   {
     "id": 1013,
     "name": "Divinity: Original Sin 2",
-    "image_path": "/images/divinity2.jpg",
+    "image_path": "/images/divinity2.webp",
     "game_store": "GOG",
     "genre": "CRPG",
     "developer": "Larian Studios",
@@ -119,7 +119,7 @@
   {
     "id": 1014,
     "name": "Celeste",
-    "image_path": "/images/celeste.jpg",
+    "image_path": "/images/celeste.webp",
     "game_store": "Steam",
     "genre": "Platformer",
     "developer": "Maddy Makes Games",
@@ -128,7 +128,7 @@
   {
     "id": 1015,
     "name": "No Man's Sky",
-    "image_path": "/images/nomanssky.jpg",
+    "image_path": "/images/nomanssky.webp",
     "game_store": "Epic",
     "genre": "Space Exploration",
     "developer": "Hello Games",
@@ -137,7 +137,7 @@
   {
     "id": 1016,
     "name": "Outer Wilds",
-    "image_path": "/images/outerwilds.jpg",
+    "image_path": "/images/outerwilds.webp",
     "game_store": "Epic",
     "genre": "Mystery / Exploration",
     "developer": "Mobius Digital",
@@ -146,7 +146,7 @@
   {
     "id": 1017,
     "name": "Terraria",
-    "image_path": "/images/terraria.jpg",
+    "image_path": "/images/terraria.webp",
     "game_store": "Steam",
     "genre": "Sandbox / Action",
     "developer": "Re-Logic",
@@ -155,7 +155,7 @@
   {
     "id": 1018,
     "name": "Mass Effect Legendary Edition",
-    "image_path": "/images/masseffect.jpg",
+    "image_path": "/images/masseffect.webp",
     "game_store": "GOG",
     "genre": "Action RPG",
     "developer": "BioWare",
@@ -164,7 +164,7 @@
   {
     "id": 1019,
     "name": "Valorant",
-    "image_path": "/images/valorant.jpg",
+    "image_path": "/images/valorant.webp",
     "game_store": "Epic",
     "genre": "Tactical FPS",
     "developer": "Riot Games",
@@ -173,7 +173,7 @@
   {
     "id": 1020,
     "name": "Sid Meier's Civilization VI",
-    "image_path": "/images/civ6.jpg",
+    "image_path": "/images/civ6.webp",
     "game_store": "Steam",
     "genre": "Turn-Based Strategy",
     "developer": "Firaxis Games",
@@ -182,7 +182,7 @@
   {
     "id": 1021,
     "name": "Horizon Zero Dawn",
-    "image_path": "/images/hzd.jpg",
+    "image_path": "/images/hzd.webp",
     "game_store": "Epic",
     "genre": "Action RPG",
     "developer": "Guerrilla Games",
@@ -191,7 +191,7 @@
   {
     "id": 1022,
     "name": "Deep Rock Galactic",
-    "image_path": "/images/drg.jpg",
+    "image_path": "/images/drg.webp",
     "game_store": "Steam",
     "genre": "Co-op FPS",
     "developer": "Ghost Ship Games",
@@ -200,7 +200,7 @@
   {
     "id": 1023,
     "name": "Frostpunk",
-    "image_path": "/images/frostpunk.jpg",
+    "image_path": "/images/frostpunk.webp",
     "game_store": "GOG",
     "genre": "City-Builder / Survival",
     "developer": "11 bit studios",
@@ -209,7 +209,7 @@
   {
     "id": 1024,
     "name": "Subnautica",
-    "image_path": "/images/subnautica.jpg",
+    "image_path": "/images/subnautica.webp",
     "game_store": "Epic",
     "genre": "Survival / Adventure",
     "developer": "Unknown Worlds",
@@ -218,7 +218,7 @@
   {
     "id": 1025,
     "name": "Baldur's Gate 3",
-    "image_path": "/images/bg3.jpg",
+    "image_path": "/images/bg3.webp",
     "game_store": "Steam",
     "genre": "CRPG",
     "developer": "Larian Studios",
@@ -227,7 +227,7 @@
   {
     "id": 1026,
     "name": "Slay the Spire",
-    "image_path": "/images/slaythespire.jpg",
+    "image_path": "/images/slaythespire.webp",
     "game_store": "Steam",
     "genre": "Roguelike Deck-Builder",
     "developer": "MegaCrit",
@@ -236,7 +236,7 @@
   {
     "id": 1027,
     "name": "Hitman 3",
-    "image_path": "/images/hitman3.jpg",
+    "image_path": "/images/hitman3.webp",
     "game_store": "Epic",
     "genre": "Stealth / Sandbox",
     "developer": "IO Interactive",
@@ -245,7 +245,7 @@
   {
     "id": 1028,
     "name": "Prey",
-    "image_path": "/images/prey.jpg",
+    "image_path": "/images/prey.webp",
     "game_store": "GOG",
     "genre": "Immersive Sim / FPS",
     "developer": "Arkane Studios",
@@ -254,7 +254,7 @@
   {
     "id": 1029,
     "name": "Untitled Goose Game",
-    "image_path": "/images/goosegame.jpg",
+    "image_path": "/images/goosegame.webp",
     "game_store": "Epic",
     "genre": "Puzzle / Stealth",
     "developer": "House House",
@@ -263,7 +263,7 @@
   {
     "id": 1030,
     "name": "Kerbal Space Program",
-    "image_path": "/images/ksp.jpg",
+    "image_path": "/images/ksp.webp",
     "game_store": "Steam",
     "genre": "Space Flight Simulator",
     "developer": "Squad",
