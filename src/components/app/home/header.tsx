@@ -1,8 +1,8 @@
 import { cn } from "@/lib/utils"
 
-type HomeProps = Omit<React.ComponentProps<"header">, "children">
+type HomeHeaderProps = Omit<React.ComponentProps<"header">, "children">
 
-function HomeHeader({ className, ...props }: HomeProps) {
+function HomeHeader({ className, ...props }: HomeHeaderProps) {
   return (
     <header
       className={cn(
@@ -19,4 +19,4 @@ function HomeHeader({ className, ...props }: HomeProps) {
   )
 }
 
-export { HomeHeader as HomeHeader, type HomeProps as HomeHeaderProps }
+export { HomeHeader, type HomeHeaderProps }
